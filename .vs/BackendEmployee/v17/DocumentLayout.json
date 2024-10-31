@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Athas AR\\Desktop\\Management-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\core\\dtos\\employee\\employeegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\core\\dtos\\employee\\employeegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\core\\dtos\\employee\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\core\\dtos\\employee\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\migrations\\20241030164745_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\migrations\\20241030164745_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\core\\automapperconfig\\automapperconfigprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\core\\automapperconfig\\automapperconfigprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\core\\dtos\\department\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\core\\dtos\\department\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\core\\dtos\\department\\departmentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\core\\dtos\\department\\departmentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\core\\dtos\\department\\departmentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\core\\dtos\\department\\departmentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\core\\dtos\\employee\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\core\\dtos\\employee\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\core\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\core\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\core\\enums\\departmentcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\core\\enums\\departmentcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|c:\\users\\athas ar\\desktop\\management-master\\backendemployee\\core\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7869DE17-6162-4CFC-B555-6BA19118223B}|BackendEmployee\\BackendEmployee.csproj|solutionrelative:backendemployee\\core\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241030164745_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Migrations\\20241030164745_Initial.cs",
+              "RelativeDocumentMoniker": "BackendEmployee\\Migrations\\20241030164745_Initial.cs",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Migrations\\20241030164745_Initial.cs",
+              "RelativeToolTip": "BackendEmployee\\Migrations\\20241030164745_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:47:46.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BackendEmployee\\Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BackendEmployee\\Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:19:38.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Dtos\\Department\\DepartmentUpdateDto.cs",
+              "RelativeDocumentMoniker": "BackendEmployee\\Core\\Dtos\\Department\\DepartmentUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Dtos\\Department\\DepartmentUpdateDto.cs",
+              "RelativeToolTip": "BackendEmployee\\Core\\Dtos\\Department\\DepartmentUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:58:29.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "BackendEmployee\\Core\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "BackendEmployee\\Core\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:58:29.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendEmployee\\appsettings.json",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\appsettings.json",
+              "RelativeToolTip": "BackendEmployee\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T16:58:29.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "BackendEmployee\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "BackendEmployee\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:58:29.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "BackendEmployee\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "BackendEmployee\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:58:29.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Dtos\\Employee\\EmployeeUpdateDto.cs",
+              "RelativeDocumentMoniker": "BackendEmployee\\Core\\Dtos\\Employee\\EmployeeUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Dtos\\Employee\\EmployeeUpdateDto.cs",
+              "RelativeToolTip": "BackendEmployee\\Core\\Dtos\\Employee\\EmployeeUpdateDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwB4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:58:29.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Dtos\\Department\\DepartmentCreateDto.cs",
+              "RelativeDocumentMoniker": "BackendEmployee\\Core\\Dtos\\Department\\DepartmentCreateDto.cs",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Dtos\\Department\\DepartmentCreateDto.cs",
+              "RelativeToolTip": "BackendEmployee\\Core\\Dtos\\Department\\DepartmentCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:58:29.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Dtos\\Department\\DepartmentGetDto.cs",
+              "RelativeDocumentMoniker": "BackendEmployee\\Core\\Dtos\\Department\\DepartmentGetDto.cs",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Dtos\\Department\\DepartmentGetDto.cs",
+              "RelativeToolTip": "BackendEmployee\\Core\\Dtos\\Department\\DepartmentGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:58:29.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperConfigProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "RelativeDocumentMoniker": "BackendEmployee\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "RelativeToolTip": "BackendEmployee\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:58:29.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "BackendEmployee\\Core\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Entities\\Department.cs",
+              "RelativeToolTip": "BackendEmployee\\Core\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:58:29.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Program.cs",
+              "RelativeDocumentMoniker": "BackendEmployee\\Program.cs",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Program.cs",
+              "RelativeToolTip": "BackendEmployee\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:58:29.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BackendEmployee\\Core\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BackendEmployee\\Core\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:58:29.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Dtos\\Employee\\EmployeeCreateDto.cs",
+              "RelativeDocumentMoniker": "BackendEmployee\\Core\\Dtos\\Employee\\EmployeeCreateDto.cs",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Dtos\\Employee\\EmployeeCreateDto.cs",
+              "RelativeToolTip": "BackendEmployee\\Core\\Dtos\\Employee\\EmployeeCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:58:29.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Dtos\\Employee\\EmployeeGetDto.cs",
+              "RelativeDocumentMoniker": "BackendEmployee\\Core\\Dtos\\Employee\\EmployeeGetDto.cs",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Dtos\\Employee\\EmployeeGetDto.cs",
+              "RelativeToolTip": "BackendEmployee\\Core\\Dtos\\Employee\\EmployeeGetDto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:58:29.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentCode.cs",
+              "DocumentMoniker": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Enums\\DepartmentCode.cs",
+              "RelativeDocumentMoniker": "BackendEmployee\\Core\\Enums\\DepartmentCode.cs",
+              "ToolTip": "C:\\Users\\Athas AR\\Desktop\\Management-master\\BackendEmployee\\Core\\Enums\\DepartmentCode.cs",
+              "RelativeToolTip": "BackendEmployee\\Core\\Enums\\DepartmentCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T16:58:29.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
